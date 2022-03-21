@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Flavio machado",
+           "cpf": "09879698622",
+            "email": "flavio@hotmail.com",
+            "whatsapp": "31999999999",
+            "endereco": {
+                "cep":"30350040",
+                "rua": "Rua Conselheiro Quintiliano Silva",
+                "numero": "1000",
+                "complemento": "ap 202",
+                "bairro": "Santo Antônio",
+                "cidade_uf": "Belo Horizonte/MG"
+            },
+            "metodo_etrega": "Moto",
+            "cnh": "Teste.jpg"
+    },
+    "cpf_invalido": {
+        "nome": "Joao Marcos",
+           "cpf": "098796986AA",
+            "email": "joao@hotmail.com",
+            "whatsapp": "31999999999",
+            "endereco": {
+                "cep":"30350040",
+                "rua": "Rua Conselheiro Quintiliano Silva",
+                "numero": "1000",
+                "complemento": "ap 202",
+                "bairro": "Santo Antônio",
+                "cidade_uf": "Belo Horizonte/MG"
+            },
+            "metodo_etrega": "Moto",
+            "cnh": "Teste.jpg"
+    },
+    "email_invalido": {
+        "nome": "Flavio machado",
+           "cpf": "09879698622",
+            "email": "flavio.hotmail.com",
+            "whatsapp": "31999999999",
+            "endereco": {
+                "cep":"30350040",
+                "rua": "Rua Conselheiro Quintiliano Silva",
+                "numero": "1000",
+                "complemento": "ap 202",
+                "bairro": "Santo Antônio",
+                "cidade_uf": "Belo Horizonte/MG"
+            },
+            "metodo_etrega": "Moto",
+            "cnh": "Teste.jpg"
+    }    
+}
